@@ -1,0 +1,9 @@
+Nombre : Eminem
+Edad   : 17
+-----------------------
+Nombre : Slim shady
+Edad   : 13
+-----------------------
+Nombre : Bachar
+Edad   : 12
+-----------------------
