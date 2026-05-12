@@ -1,6 +1,0 @@
-nombre : Juanito
-nombre : val
-nombre : de rrama
-nombre : Eminem
-nombre : Julian
-nombre : Federico
